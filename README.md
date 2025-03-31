@@ -6,7 +6,7 @@ Código do 1º checkpoint da disciplina de *Microservice and Web Engineering.*
 
 **Nome:** Giovanna Vasques Alexandre
 
-**Turma:** 2SIR
+**Turma:** 3SIR
 
 ## Descrição do Projeto - Parte 1
 
@@ -53,7 +53,9 @@ Contém a lógica de negócio.
 ### Executar a API
 - *Executando* **Maven**
 
+    ```
     mvn spring-boot:run
+    ```
 
 ### Documentação API (swagger)
 	
@@ -61,4 +63,4 @@ Contém a lógica de negócio.
 
 ## Referencias
 
-https://springdoc.org/
+- https://springdoc.org/
